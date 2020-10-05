@@ -31,7 +31,7 @@ const customers=[
 },
 {
   'id':2,
-  'image':'http://placeimg.com/64/64/2',
+  'image':'http://placeimg.com/64/64/1',
   'name': '동빈나',
   'birthday':'961223',
   'gender': '남자',
